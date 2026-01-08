@@ -160,7 +160,7 @@ Checkout
 
 View orders
 
-🌟 Future Improvements
+## 🌟 Future Improvements
 
 Payment gateway integration (Razorpay / Stripe)
 
@@ -172,7 +172,7 @@ Admin dashboard customization
 
 REST API version
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
@@ -186,7 +186,7 @@ Push to the branch
 
 Create a Pull Request
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
