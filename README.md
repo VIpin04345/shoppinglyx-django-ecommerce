@@ -111,34 +111,35 @@ Open in browser:
 ## 🔑 Main Functionalities Explained
 1. Product View
 
-Displays products by category
+  -- Displays products by category
 
 Shows cart count for logged-in users
 
 2. Cart System
 
-Add items using add_to_cart
+  -- Add items using add_to_cart
 
-Remove items with AJAX (remove_cart)
+  -- Remove items with AJAX (remove_cart)
 
-Auto calculation of:
+  -- Auto calculation of:
 
-Product total
+  -- Product total
 
-Shipping charges
+  -- Shipping charges
 
-Final amount
+  -- Final amount
 
 3. Checkout & Orders
 
-Select delivery address
+  -- Select delivery address
 
-Place order
+  -- Place order
 
-View order history
+  -- View order history
 
 4. Profile
 
-Add & update user profile
+  -- Add & update user profile
 
-Stores address details
+  -- Stores address details
+
