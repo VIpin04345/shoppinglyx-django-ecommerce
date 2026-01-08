@@ -107,3 +107,38 @@ python manage.py runserver
 
 Open in browser:
 👉 http://127.0.0.1:8000/
+
+## 🔑 Main Functionalities Explained
+1. Product View
+
+Displays products by category
+
+Shows cart count for logged-in users
+
+2. Cart System
+
+Add items using add_to_cart
+
+Remove items with AJAX (remove_cart)
+
+Auto calculation of:
+
+Product total
+
+Shipping charges
+
+Final amount
+
+3. Checkout & Orders
+
+Select delivery address
+
+Place order
+
+View order history
+
+4. Profile
+
+Add & update user profile
+
+Stores address details
