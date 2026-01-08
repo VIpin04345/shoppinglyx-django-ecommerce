@@ -143,3 +143,55 @@ Shows cart count for logged-in users
 
   -- Stores address details
 
+
+## 🔐 Security
+
+Protected routes using:
+
+@login_required
+
+method_decorator(login_required)
+
+Only authenticated users can:
+
+Add to cart
+
+Checkout
+
+View orders
+
+🌟 Future Improvements
+
+Payment gateway integration (Razorpay / Stripe)
+
+Wishlist feature
+
+Product reviews & ratings
+
+Admin dashboard customization
+
+REST API version
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repo
+
+Create your feature branch
+
+Commit changes
+
+Push to the branch
+
+Create a Pull Request
+
+📜 License
+
+This project is licensed under the MIT License.
+
+👨‍💻 Author
+
+Shubh
+Aspiring Software Engineer
+💼 Django | Python | Web Development
