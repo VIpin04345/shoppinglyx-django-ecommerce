@@ -38,3 +38,15 @@ By Price (Above / Below ₹10,000)
 Order History
 
 Secure routes using login_required
+
+## 🛠️ Tech Stack
+
+Backend: Django
+
+Frontend: HTML, CSS, Bootstrap
+
+Database: SQLite (default)
+
+Authentication: Django Auth System
+
+ORM: Django ORM
